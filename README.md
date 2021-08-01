@@ -24,6 +24,9 @@ npm run test
 ```
 npm run lint
 ```
-
+### Link with netlify cms for backend
+```
+https://www.netlifycms.org/
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
